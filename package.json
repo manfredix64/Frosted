@@ -1,0 +1,19 @@
+{
+  "name": "frosted",
+  "version": "1.0.0",
+  "description": "Discord bot for skyblock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manfredix64/Frosted.git"
+  },
+  "author": "epic_fred",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manfredix64/Frosted/issues"
+  },
+  "homepage": "https://github.com/manfredix64/Frosted#readme"
+}
