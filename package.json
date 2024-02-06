@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/manfredix64/Frosted/issues"
   },
-  "homepage": "https://github.com/manfredix64/Frosted#readme"
+  "homepage": "https://github.com/manfredix64/Frosted#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
 }
